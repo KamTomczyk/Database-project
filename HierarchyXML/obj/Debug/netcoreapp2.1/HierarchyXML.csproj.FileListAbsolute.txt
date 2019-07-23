@@ -1,0 +1,8 @@
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\bin\Debug\netcoreapp2.1\HierarchyXML.deps.json
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\bin\Debug\netcoreapp2.1\HierarchyXML.runtimeconfig.json
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\bin\Debug\netcoreapp2.1\HierarchyXML.runtimeconfig.dev.json
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\bin\Debug\netcoreapp2.1\HierarchyXML.dll
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\obj\Debug\netcoreapp2.1\HierarchyXML.csprojAssemblyReference.cache
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\obj\Debug\netcoreapp2.1\HierarchyXML.csproj.CoreCompileInputs.cache
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\obj\Debug\netcoreapp2.1\HierarchyXML.AssemblyInfoInputs.cache
+D:\Nauka\c#\HierarchyXML\HierarchyXML\HierarchyXML\obj\Debug\netcoreapp2.1\HierarchyXML.AssemblyInfo.cs
